@@ -47,6 +47,9 @@ const styles = StyleSheet.create({
 });
 
 ```
+## Example (Basic)
+![React Native Dialog Input iOS](https://res.cloudinary.com/dhwilvid4/image/upload/v1559375251/BasiciOS_y0yagd.png)
+![React Native Dialog Input Android](https://res.cloudinary.com/dhwilvid4/image/upload/v1559375339/BasicAndroid_mca8yc.png)
 
 ## Custom Usage
 
@@ -105,6 +108,12 @@ const styles = StyleSheet.create({
 
 
 ```
+
+## Example (Custom)
+![React Native Dialog Input iOS](https://res.cloudinary.com/dhwilvid4/image/upload/v1559375251/CustomiOS_txiz30.png)
+![React Native Dialog Input Android](https://res.cloudinary.com/dhwilvid4/image/upload/v1559375339/CustomAndroid_tgj71j.png)
+
+
 ## Properties
 
  name                  | description                                 | type     
