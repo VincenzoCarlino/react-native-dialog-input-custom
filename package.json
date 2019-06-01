@@ -1,0 +1,28 @@
+{
+  "name": "react-native-dialog-input-custom",
+  "version": "1.0.0",
+  "description": "React native dialog input customizable",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincenzoCarlino/react-native-dialog-input-custom.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "mobile",
+    "react-native-dialog",
+    "dialog",
+    "input"
+  ],
+  "author": "Vincenzo Carlino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VincenzoCarlino/react-native-dialog-input-custom/issues"
+  },
+  "homepage": "https://github.com/VincenzoCarlino/react-native-dialog-input-custom#readme"
+}
